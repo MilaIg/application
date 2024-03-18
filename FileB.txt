@@ -1,3 +1,4 @@
 This is file B.
 This is a change.
 It will be updated several times.
+Let's make a change!
